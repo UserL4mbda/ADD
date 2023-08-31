@@ -6,6 +6,10 @@
 [RDV avec les dignitaires](#2-rendez-vous-avec-les-dignitaires)
 [Le cimetiere](#3-le-cimetiere)
 [L'eglise](#5-leglise)
+[Personnage](#fiches-de-personnages)
+[Perso Elric](#eldric-flamberouge)
+[Pretre demonique](#prêtre-démoniaque)
+[Demon](#gurzak-le-briseur-de-fer-un-démon-guerrier-spécialisé-dans-les-assauts-brutaux)
 
 
 
