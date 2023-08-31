@@ -1,16 +1,16 @@
-[La boutique de l'alchimiste](#1-la-boutique-de-lalchimiste)
-[La diseuse de bonne aventure](#2-la-diseuse-de-bonne-aventure)
-[Le mendiant](#3-entretien-avec-un-mendiant)
-[La ferme](#4-la-ferme)
-[La maison du Hero](#2-la-maison-du-guerrier)
-[RDV avec les dignitaires](#5-rendez-vous-avec-les-dignitaires)
-[Le cimetiere](#6-le-cimetiere)
-[L'eglise](#8-leglise)
-[Les escalier](#9-les-escaliers)
-[Personnage](#fiches-de-personnages)
-[Perso Elric](#eldric-flamberouge)
-[Pretre demonique](#prêtre-démoniaque)
-[Demon](#gurzak)
+[La boutique de l'alchimiste](#1-la-boutique-de-lalchimiste)    |
+[La diseuse de bonne aventure](#2-la-diseuse-de-bonne-aventure) |
+[Le mendiant](#3-entretien-avec-un-mendiant)                    |
+[La ferme](#4-la-ferme)                                         |
+[La maison du Hero](#2-la-maison-du-guerrier)                   |
+[RDV avec les dignitaires](#5-rendez-vous-avec-les-dignitaires) |
+[Le cimetiere](#6-le-cimetiere)                                 |
+[L'eglise](#8-leglise)                                          |
+[Les escalier](#9-les-escaliers)                                |
+[Personnage](#fiches-de-personnages)                            |
+[Perso Elric](#eldric-flamberouge)                              |
+[Pretre demonique](#prêtre-démoniaque)                          |
+[Demon](#gurzak)                                                |
 
 
 
