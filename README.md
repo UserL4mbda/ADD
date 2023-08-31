@@ -1,11 +1,12 @@
 [La boutique de l'alchimiste](#1-la-boutique-de-lalchimiste)
-[La diseuse de bonne aventure](#11--la-diseuse-de-bonne-aventure)
-[Le mendiant](#12--entretien-avec-un-mendiant)
-[La ferme](#15-la-ferme)
+[La diseuse de bonne aventure](#2-la-diseuse-de-bonne-aventure)
+[Le mendiant](#3-entretien-avec-un-mendiant)
+[La ferme](#4-la-ferme)
 [La maison du Hero](#2-la-maison-du-guerrier)
-[RDV avec les dignitaires](#2-rendez-vous-avec-les-dignitaires)
-[Le cimetiere](#3-le-cimetiere)
-[L'eglise](#5-leglise)
+[RDV avec les dignitaires](#5-rendez-vous-avec-les-dignitaires)
+[Le cimetiere](#6-le-cimetiere)
+[L'eglise](#8-leglise)
+[Les escalier](#9-les-escaliers)
 [Personnage](#fiches-de-personnages)
 [Perso Elric](#eldric-flamberouge)
 [Pretre demonique](#prêtre-démoniaque)
@@ -42,7 +43,7 @@ Ce lieu autrefois réputé pour sa connaissance et son savoir mystique est déso
 
 Les aventuriers se demandent ce qui a bien pu se passer ici, mais une chose est certaine : l'esprit dévasté qui a envahi ces murs est le reflet d'une menace bien plus grande qui plane sur la tranquillité de la petite ville.
 
-### 1.1 : La diseuse de bonne aventure
+### 2. La diseuse de bonne aventure
 Au coin d'une rue sombre et peu fréquentée, vous découvrez un petit étalage de fortune, richement orné de tissus colorés et de voiles scintillants. Là, assise à une table en bois ciselée, une femme aux yeux perçants et au visage orné de marques tribales vous fixe d'un regard pénétrant. Sa peau est tannée par le soleil et les épreuves de la vie, mais son regard est vif et éclairé par une lueur d'intuition.
 
 Ses cheveux noirs comme l'ébène sont retenus en arrière par des épingles de métal, laissant apparaître son front large et marqué par les années. Elle porte une tenue excentrique composée de couches de tissus en cascade, ornés de perles et de breloques qui cliquettent doucement à chaque mouvement. Des anneaux en argent, incrustés de pierres colorées, pendent à ses oreilles et brillent à la lumière tamisée de sa petite lanterne.
@@ -59,7 +60,7 @@ L'air qui l'entoure est teinté d'une aura mystique, et même si vous n'êtes pa
 "Lorsque la nuit se confond avec le jour, le voile entre les dimensions s'amincit. Méfiez-vous des portails ouverts par l'obscurité."
 "Les portes se fissurent, laissant s'échapper des chuchotements vénéneux. Le sol tremble sous les pas de ceux qui approchent."
 
-### 1.2 : Entretien avec un mendiant
+### 3. Entretien avec un mendiant
 Assis sur un coin de rue à l'écart du regard des passants, un mendiant aux vêtements en lambeaux accepte de partager son expérience. Il regarde fréquemment par-dessus son épaule, comme s'il craignait que quelqu'un ne l'observe ou ne l'écoute.
 
 "J'me souviens d'y a quelques semaines, voyez-vous," commence-t-il d'une voix grinçante, "y'avait un homme, si on peut appeler ça un homme, qui s'est approché d'moi. Grand, enfin, grand et maigre comme un squelette, et ses yeux, j'vous dis pas... ils brillaient comme des braises sous un ciel d'orage."
@@ -72,7 +73,7 @@ Le mendiant serre son manteau autour de lui, ses yeux emplis d'une méfiance pal
 
 Le mendiant se recroqueville légèrement, jetant un coup d'œil nerveux aux alentours. "J'sais pas c'qu'ils veulent vraiment, ces gens-là. Mais j'vous dis, si vous croisez quelqu'un avec ce regard, avec cette manière de parler, faites gaffe. Faites pas les mêmes erreurs qu'moi, parce que c'est pas de simples hommes, ça, croyez-moi, c'est pas d'ce monde."
 
-### 1.5. La ferme
+### 4. La ferme
 Les grincements du portail rouillé résonnent dans l'air stagnant alors que vous pénétrez dans l'enceinte de la ferme abandonnée. Le lieu semble figé dans le temps, pris dans une atmosphère d'abandon et de désolation. Les bâtiments en bois, autrefois prospères, se dressent maintenant comme des sentinelles silencieuses et décrépites, leurs structures vermoulues révélant les signes évidents du temps qui passe.
 
 Une fine brume grise plane dans l'air, donnant aux alentours une apparence spectrale. Le vent murmure parmi les arbres morts, faisant grincer les branches comme des doigts osseux qui cherchent à racler le ciel. L'air est chargé d'une odeur aigre et pénétrante, mélange de moisissure et de pourriture, une odeur qui se faufile dans vos narines et semble s'enrouler autour de votre gorge.
@@ -126,7 +127,7 @@ La vue de cette naissance macabre est suffisante pour provoquer un haut-le-cœur
 
 Dans cet environnement déjà angoissant, la découverte de ce processus repoussant de naissance ajoute une dimension d'horreur que vous ne pouviez pas anticiper, et la perspective d'autres rencontres avec ces créatures sinistres vous pèse encore plus lourdement.
 
-### 2. Rendez-vous avec les dignitaires
+### 5. Rendez-vous avec les dignitaires
 Bientôt, leur présence dans la ville ne passa pas inaperçue. Les villageois, qui jusqu'alors vaquaient à leurs occupations quotidiennes, se rassemblaient en petits groupes, jetant des regards inquisiteurs vers les étrangers qui semblaient porter avec eux une aura d'étrangeté et d'influence surnaturelle. Des murmures inquiets se propageaient comme une traînée de poudre, alimentant la méfiance et la suspicion.
 
 Les aventuriers furent bientôt convoqués par les dignitaires de la ville. Le maire, revêtu de sa tenue cérémonielle, les attendait avec une expression grave. À ses côtés aurait dû se trouver le Héros de la ville, dont la renommée dépassait les frontières de la cité, et la Grande Prêtresse, gardienne des enseignements sacrés. Cependant, leur absence était palpable, créant un vide dans la hiérarchie de pouvoir.
@@ -135,7 +136,7 @@ Des rumeurs avaient déjà atteint les aventuriers, racontant que le Héros avai
 
 La ville était plongée dans l'incertitude, les aventuriers se tenant au cœur de cet enchevêtrement de craintes et d'énigmes. Ils savaient que pour rétablir la paix et la normalité, ils devraient découvrir la vérité derrière la disparition de l'alchimiste, les comportements étranges des animaux et la mystérieuse absence des dignitaires. Un sentiment d'urgence mêlé de mysticisme les enveloppait, les poussant à plonger plus profondément dans les mystères qui hantaient la ville assombrie par la nuit naissante.
 
-### 3. Le cimetiere
+### 6. Le cimetiere
 Les aventuriers marchent prudemment à travers le cimetière, en direction de l'église située au-delà. Les pierres tombales se dressent de part et d'autre avec une ambiance lugubre et une aura de tristesse enveloppant chaque monument funéraire.
 
 Alors qu'ils avancent, des murmures troublants emplissent l'air. Des voix chuchotantes, étouffées par le poids du désespoir, semblent provenir des tombes elles-mêmes. Les aventuriers peuvent distinguer vaguement des noms familiers, associés aux habitants de la petite ville.
@@ -148,7 +149,7 @@ La brume mystérieuse se lève, enveloppant les allées étroites du cimetière 
 
 Une atmosphère de tristesse et de mélancolie se concentre dans cet endroit sacré, témoignant des tourments qui ont frappé la petite ville. Les aventuriers ressentent l'urgence de mettre fin à cette souffrance et de découvrir la vérité derrière l'obscurité qui a pris racine dans ces lieux saints.
 
-### 4. Le cimetiere version 2
+### 7. Le cimetiere version 2
 Les aventuriers avancent avec prudence à travers le cimetière, un lieu normalement empreint de calme et de respect. Mais dès qu'ils pénètrent dans les lieux, une tension palpable envahit l'atmosphère.
 
 Les tombes, autrefois soigneusement entretenues, semblent avoir été ravagées. Certaines sont ouvertes, avec le bois des cercueils éclaté et les morceaux de terre épars sur le sol. Des voiles de brume glissent entre les pierres tombales, ajoutant une dimension d'angoisse et de mystère aux lieux.
@@ -161,7 +162,7 @@ L'atmosphère est oppressante, comme si les morts avaient été réveillés de l
 
 Résolus à démasquer l'origine de cette profanation et à restaurer la tranquillité des défunts, les aventuriers continuent leur chemin vers l'église, se préparant à affronter tous les mystères et les horreurs qui les attendent.
 
-### 5. L'eglise
+### 8. L'eglise
 L'église se dresse sombre et imposante, ses murs de pierre recouverts de mousse et d'écume. Les fenêtres vitrées sont brisées et les portes en bois sont partiellement pourries, laissant entrevoir l'intérieur obscur. Des ténèbres épaisses semblent émaner de l'édifice, créant une atmosphère oppressante qui saisit vos sens dès que vous franchissez le seuil.
 
 L'intérieur de l'église est en piteux état. Des bancs de bois autrefois polis et soignés sont maintenant brisés et éparpillés, recouverts d'une fine couche de poussière. Des toiles d'araignée pendent des poutres en bois du plafond, oscillant doucement dans l'air stagnant. L'odeur de moisi et de désuétude imprègne l'air.
@@ -172,7 +173,7 @@ Les murs de l'église sont ornés de fresques autrefois magnifiques, représenta
 
 Dans l'obscurité à l'arrière de l'église, des escaliers descendent vers les profondeurs. Une lueur faible et sinistre émane de ce passage, invitant les joueurs à explorer davantage. Les joueurs pourraient sentir le frisson de l'excitation mêlé à une inquiétante appréhension, alors qu'ils se tiennent au seuil de l'inconnu qui s'étend sous l'église abandonnée.
 
-### 6. Les escaliers
+### 9. Les escaliers
 Les escaliers s'enfoncent dans les profondeurs de la terre, leurs marches de pierre inégales éclairées par des torches de cire noire accrochées aux murs. L'air devient de plus en plus épais, chargé d'une énergie sombre qui serre votre cœur. Alors que vous descendez, vous sentez une pulsation, un battement presque imperceptible, qui semble émaner des murs eux-mêmes.
 
 Finalement, les escaliers débouchent sur une vaste cavité souterraine. La lueur lugubre émane d'anciennes chandelles alignées autour de la pièce, créant une ambiance troublante. Au centre de la pièce se trouve un autel, semblable à celui de l'église abandonnée, mais beaucoup plus imposant. Les motifs démoniaques et les inscriptions sinistres ornent sa surface, brillant faiblement à la lueur des flammes dansantes.
