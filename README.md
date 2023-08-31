@@ -57,8 +57,8 @@ C'est une présence envoûtante, celle d'une femme qui semble naviguer entre les
 L'air qui l'entoure est teinté d'une aura mystique, et même si vous n'êtes pas sûr de croire à ses pouvoirs, il est difficile de nier le charme énigmatique qui l'accompagne. Elle vous invite à vous asseoir à sa table, où les cartes vous attendent, prêtes à vous révéler un avenir incertain dans les ombres mouvantes de ses voiles chatoyants.
 
 #### Quelques phrase:
-"Lorsque la nuit se confond avec le jour, le voile entre les dimensions s'amincit. Méfiez-vous des portails ouverts par l'obscurité."
-"Les portes se fissurent, laissant s'échapper des chuchotements vénéneux. Le sol tremble sous les pas de ceux qui approchent."
+- "Lorsque la nuit se confond avec le jour, le voile entre les dimensions s'amincit. Méfiez-vous des portails ouverts par l'obscurité."
+- "Les portes se fissurent, laissant s'échapper des chuchotements vénéneux. Le sol tremble sous les pas de ceux qui approchent."
 
 ### 3. Entretien avec un mendiant
 Assis sur un coin de rue à l'écart du regard des passants, un mendiant aux vêtements en lambeaux accepte de partager son expérience. Il regarde fréquemment par-dessus son épaule, comme s'il craignait que quelqu'un ne l'observe ou ne l'écoute.
