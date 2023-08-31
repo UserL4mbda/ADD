@@ -9,7 +9,7 @@
 [Personnage](#fiches-de-personnages)
 [Perso Elric](#eldric-flamberouge)
 [Pretre demonique](#prêtre-démoniaque)
-[Demon](#gurzak-le-briseur-de-fer-un-démon-guerrier-spécialisé-dans-les-assauts-brutaux)
+[Demon](#gurzak)
 
 
 
@@ -386,8 +386,8 @@ Bien sûr, voici une fiche technique pour les Chasseurs d'Ombres dans votre scé
 **Description**
 Les chasseurs d'ombres sont des créatures sombres et cauchemardesques, résultant de l'ombre de la vie elle-même. Ils errent dans les ténèbres, traquant leurs proies avec une agilité terrifiante. Les chasseurs d'ombres portent des armes noires et dentelées, et leur présence est accompagnée d'une sensation oppressante et glaciale. Leurs yeux luisent d'une lueur éthérée alors qu'ils se faufilent dans l'obscurité, prêts à surgir sur leurs victimes.
 
-
-### Gurzak, le Briseur de Fer, un démon guerrier spécialisé dans les assauts brutaux :
+### Gurzak
+Gurzak, le Briseur de Fer, un démon guerrier spécialisé dans les assauts brutaux :
 **Nom :** Gurzak, le Briseur de Fer
 **Type :** Démon (Guerrier)
 **Niveau :** 6
