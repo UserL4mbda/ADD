@@ -120,6 +120,8 @@ La nuit tombe, enveloppant Sylvestra dans un manteau sombre. Alors que vous arpe
 
 ## Acte 1 : Les Mystères Émergents
 
+Lors de leur enquête, les joueurs peuvent entendre des rumeurs concernant [Malakar](#prêtre-démoniaque), un personnage connu pour être fourbe dangereux et impitoyable. On parle de lui comme étant un fourche-langue (peu de personnes savent de quoi il en retourne vraiment et pensent qu'il a la langue fourchue, il ment et trahis, cependant la [diseurse de bonne aventure](#2-la-diseuse-de-bonne-aventure) sait qu'il est capable de parler aux serpents). [Malakar](#prêtre-démoniaque) est cependant peu connu de la population, on parle de lui comme le gourou d'une secte sans grande envergure, jusqu'a récemment, des personnes du [bas peuple](#3-entretien-avec-un-mendiant) se tournent vers lui.
+
 ### 1. La boutique de l'alchimiste
 Les aventuriers poussent les grandes portes en bois vermoulues de la boutique d'alchimie. L'intérieur est plongé dans l'obscurité, enveloppé d'une aura sinistre et malsaine. Des toiles d'araignées géantes pendent des poutres pourries, témoignant de l'abandon et du désespoir qui règnent en ces lieux.
 
