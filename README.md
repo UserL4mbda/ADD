@@ -12,6 +12,7 @@
 [Pretre demonique](#prêtre-démoniaque)                          |
 [Demon](#gurzak)                                                |
 [Varok chef des brigants](#varok)                               |
+[Marilith Gorthala](#marilith-gorthala)                         |
 
 
 
@@ -120,7 +121,7 @@ La nuit tombe, enveloppant Sylvestra dans un manteau sombre. Alors que vous arpe
 
 ## Acte 1 : Les Mystères Émergents
 
-Lors de leur enquête, les joueurs peuvent entendre des rumeurs concernant [Malakar](#prêtre-démoniaque), un personnage connu pour être fourbe dangereux et impitoyable. On parle de lui comme étant un fourche-langue (peu de personnes savent de quoi il en retourne vraiment et pensent qu'il a la langue fourchue, il ment et trahis, cependant la [diseurse de bonne aventure](#2-la-diseuse-de-bonne-aventure) sait qu'il est capable de parler aux serpents). [Malakar](#prêtre-démoniaque) est cependant peu connu de la population, on parle de lui comme le gourou d'une secte sans grande envergure, jusqu'a récemment, des personnes du [bas peuple](#3-entretien-avec-un-mendiant) se tournent vers lui.
+Lors de leur enquête, les joueurs peuvent entendre des rumeurs concernant [Malakar](#prêtre-démoniaque), un personnage connu pour être fourbe dangereux et impitoyable. On parle de lui comme étant un fourche-langue (peu de personnes savent de quoi il en retourne vraiment et pensent qu'il a la langue fourchue, il ment et trahis, cependant la [diseurse de bonne aventure](#2-la-diseuse-de-bonne-aventure) sait qu'il est capable de parler aux serpents). [Malakar](#prêtre-démoniaque) est cependant peu connu de la population, on parle de lui comme le gourou d'une secte sans grande envergure, jusqu'a récemment, des personnes du [bas peuple](#3-entretien-avec-un-mendiant) se tournant vers lui. Au cours de discussion dans des pubs, les aventuriers entendent parler d'une [famille de paysan ayant mistérieusement disparue](#4-la-ferme). Aprés quelques temps, ils peuvent être [convoqués par les dignitaires](#5-rendez-vous-avec-les-dignitaires) de la ville et apprendre la disparition du [hero](#2-la-maison-du-guerrier) et de la prêtresse, ou bien l'apprendre dans une taverne
 
 ### 1. La boutique de l'alchimiste
 Les aventuriers poussent les grandes portes en bois vermoulues de la boutique d'alchimie. L'intérieur est plongé dans l'obscurité, enveloppé d'une aura sinistre et malsaine. Des toiles d'araignées géantes pendent des poutres pourries, témoignant de l'abandon et du désespoir qui règnent en ces lieux.
@@ -536,21 +537,31 @@ Gurzak, le Briseur de Fer, un démon guerrier spécialisé dans les assauts brut
 
 
 ## Hiérarchie démoniaque
-    Malgorthar, le Briseur d'Âmes (Demogorgon) : Le Seigneur démoniaque majeur, une figure terrifiante de pouvoir et de destruction. Il est au sommet de la hiérarchie et est responsable de l'ouverture du portail et de l'invasion des Abysses.
 
-    Les Généraux Majeurs :
-        Marilith Gorthala, la Dévoreuse d'Âmes : Un puissant général démoniaque, une Marilith à multiples bras et épées. Elle supervise les opérations sur le plan matériel, dirigeant les forces démoniaques lors de l'invasion.
+### Malgorthar
+le Briseur d'Âmes (Demogorgon) : Le Seigneur démoniaque majeur, une figure terrifiante de pouvoir et de destruction. Il est au sommet de la hiérarchie et est responsable de l'ouverture du portail et de l'invasion des Abysses.
 
-    Les Généraux Mineurs :
-        Baphu, le Fléau des Brumes : Un sorcier démon mineur spécialisé dans les malédictions et les enchantements. Il est chargé de corrompre les esprits et de semer la confusion parmi les habitants de la ville.
-        Gurzak, le Briseur de Fer : Un démon guerrier spécialisé dans les assauts brutaux. Il commande les troupes démoniaques chargées de créer le chaos et la destruction dans la ville.
-        Sylthara, la Lame Traîtresse : Un démon rogue agile et furtif. Elle est chargée de l'infiltration et de l'assassinat, semant la terreur et la paranoïa parmi les villageois.
+## Les Généraux Majeurs :
 
-    Les Lieutenants et Officiers :
-        D'autres démons spécialisés dans différentes tâches, tels que la magie, l'espionnage, la manipulation et la logistique. Ils supervisent les troupes et les activités spécifiques dans le but d'accomplir les objectifs de l'invasion.
+### Marilith Gorthala la générale en cheffe
+la Dévoreuse d'Âmes : Un puissant général démoniaque, une Marilith à multiples bras et épées. Elle supervise les opérations sur le plan matériel, dirigeant les forces démoniaques lors de l'invasion.
 
-    Les Soldats et Éclaireurs :
-        Une variété de démons mineurs, de créatures démoniaques et de morts-vivants sous le commandement des généraux et de leurs subordonnés. Ils forment la force de combat principale et exécutent les ordres.
+## Les Généraux Mineurs :
+
+### Baphu, le Fléau des Brumes :
+Un sorcier démon mineur spécialisé dans les malédictions et les enchantements. Il est chargé de corrompre les esprits et de semer la confusion parmi les habitants de la ville.
+
+### Gurzak, le Briseur de Fer :
+Un démon guerrier spécialisé dans les assauts brutaux. Il commande les troupes démoniaques chargées de créer le chaos et la destruction dans la ville.
+
+### Sylthara, la Lame Traîtresse :
+Un démon rogue agile et furtif. Elle est chargée de l'infiltration et de l'assassinat, semant la terreur et la paranoïa parmi les villageois.
+
+## Les Lieutenants et Officiers :
+D'autres démons spécialisés dans différentes tâches, tels que la magie, l'espionnage, la manipulation et la logistique. Ils supervisent les troupes et les activités spécifiques dans le but d'accomplir les objectifs de l'invasion.
+
+## Les Soldats et Éclaireurs :
+Une variété de démons mineurs, de créatures démoniaques et de morts-vivants sous le commandement des généraux et de leurs subordonnés. Ils forment la force de combat principale et exécutent les ordres.
 
         
 
@@ -558,6 +569,37 @@ Gurzak, le Briseur de Fer, un démon guerrier spécialisé dans les assauts brut
 # ANNEXES
 
 ## Historique
+
+### Marilith Gorthala
+Marilith Gorthala, la Dévoreuse d'Âmes :
+
+**Nom:** Marilith Gorthala  
+**Race:** Démon (Marilith)  
+**Classe:** Seigneur des Abysses  
+**Alignement:** Chaotique Mauvais  
+
+**Description physique et personnelle:**  
+Marilith Gorthala est une entité démoniaque terrifiante, une marilith à la peau écailleuse et aux multiples bras, chacun armé d'une lame mortelle. Elle possède un torse de femme d'une beauté maléfique, auquel est rattachée une longue queue de serpent. Ses yeux incandescents brillent d'une lueur vicieuse, et sa voix est un murmure hypnotique qui peut ensorceler quiconque l'écoute.
+
+Gorthala est parée d'ornements et de joyaux précieux, signes de son pouvoir démoniaque et de sa suprématie. Son apparence est à la fois séduisante et mortelle, conçue pour tromper et séduire ceux qui osent s'approcher d'elle.
+
+**Histoire et motivations:**  
+Marilith Gorthala est une seigneur des Abysses redoutable, avide de pouvoir et de destruction. Elle a toujours aspiré à étendre son influence et à répandre le chaos dans le monde matériel. Lorsque l'expérience alchimique d'Eldric Flamberouge a ouvert un portail vers ce monde, Gorthala a saisi l'occasion de s'échapper des Abysses pour semer le chaos.
+
+Son plan consiste à utiliser le portail pour faire passer le Demogorgon, un démon encore plus puissant, à travers les dimensions, provoquant une destruction incommensurable. Elle est prête à tout pour y parvenir, y compris la manipulation de cultes démoniaques et l'asservissement d'âmes innocentes.
+
+Gorthala est impitoyable et intelligente, usant de sa beauté trompeuse et de son charisme pour manipuler ses adeptes. Elle voit en Eldric Flamberouge une source précieuse d'énergie vitale, qu'elle utilise pour renforcer ses pouvoirs et pour maintenir le portail ouvert.
+
+**Pouvoirs et compétences:**  
+- **Lames Mortelles:** Marilith Gorthala peut manier ses multiples bras, chacun équipé d'une lame mortelle, pour infliger des dégâts terribles en combat rapproché.
+- **Magie Démoniaque:** Elle maîtrise la magie démoniaque, lui permettant de lancer des sorts destructeurs et de contrôler les forces chaotiques des Abysses.
+- **Charisme Hypnotique:** Sa voix ensorcelante peut manipuler les esprits des mortels, les poussant à agir selon sa volonté.
+
+**Objectifs actuels:**  
+Le principal objectif de Marilith Gorthala est de faire passer le Demogorgon à travers le portail qu'elle a ouvert. Pour ce faire, elle doit renforcer le portail en absorbant l'énergie vitale d'Eldric Flamberouge et en utilisant le culte démoniaque qu'elle a créé pour alimenter les rituels nécessaires à cet effet.
+
+Gorthala considère le monde matériel comme un terrain de jeu pour semer le chaos et la destruction, et elle est prête à tout pour accomplir son dessein démoniaque.
+
 **L'Ascension du Culte de Marilith Gorthala :**
 
 Tout commença avec une expérience alchimique innocente d'Eldric Flamberouge, le gnome alchimiste. Cherchant à créer une potion de guérison avancée, il mélangea des ingrédients rares et inconnus, ignorant la sombre magie qui sommeillait en eux. Cependant, ses intentions pures ne purent pas contrer les forces qu'il avait accidentellement libérées. Les énergies chaotiques issues de son échec alchimique agirent comme un portail, attirant l'attention de Marilith Gorthala, la Dévoreuse d'Âmes, une entité démoniaque de puissance incommensurable.
