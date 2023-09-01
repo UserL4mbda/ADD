@@ -272,8 +272,25 @@ Dans l'obscurité à l'arrière de l'église, des escaliers descendent vers les 
 Les escaliers s'enfoncent dans les profondeurs de la terre, leurs marches de pierre inégales éclairées par des torches de cire noire accrochées aux murs. L'air devient de plus en plus épais, chargé d'une énergie sombre qui serre votre cœur. Alors que vous descendez, vous sentez une pulsation, un battement presque imperceptible, qui semble émaner des murs eux-mêmes.
 
 Finalement, les escaliers débouchent sur une vaste cavité souterraine. La lueur lugubre émane d'anciennes chandelles alignées autour de la pièce, créant une ambiance troublante. Au centre de la pièce se trouve un autel, semblable à celui de l'église abandonnée, mais beaucoup plus imposant. Les motifs démoniaques et les inscriptions sinistres ornent sa surface, brillant faiblement à la lueur des flammes dansantes.
+Vos pas résonnent dans la cavité souterraine, mais même cette petite manifestation de mouvement semble insuffisante pour briser le silence écrasant qui règne ici. 
 
-Vos pas résonnent dans la cavité souterraine, mais même cette petite manifestation de mouvement semble insuffisante pour briser le silence écrasant qui règne ici. Devant vous, derrière l'autel imposant, s'ouvre dans l'air comme une plaie béante dans la réalité elle-même. La brume qui en émane est d'un noir profond, un tourbillon d'obscurité qui se tord et se contorsionne comme s'il était en vie. Elle se fond dans les ombres de la pièce, se mêlant à l'obscurité déjà palpable, créant un maelström inquiétant.
+### 10. La salle d'incantation
+Les aventuriers pénètrent dans une salle enfouie dans les profondeurs de la montagne, un lieu où les ténèbres semblent s'épaissir. Des torches vacillantes diffusent une lueur faible et défaillante, créant des ombres dansantes sur les murs d'une structure cyclopéenne qui se dresse devant eux. Au centre de la pièce, un cercle de runes démoniaques gravées dans la pierre noire émet une lueur sinistre, illuminant une scène macabre.
+
+Au cœur de ce cercle, Marilith Gorthala se tient debout, ses multiples bras se balançant de manière hypnotique dans un rythme obscène. Son torse de femme dégage une beauté perverse, mais son visage est tordu par un sourire cruel qui met en évidence des dents pointues et acérées. Les lames de ses bras scintillent d'un éclat meurtrier.
+
+Gorthala est vêtue d'une robe écarlate, tachée de sang, qui flotte autour d'elle dans une danse macabre. Autour de son cou, un collier d'ossements pend, émettant un son discordant à chaque mouvement. Ses yeux brillent d'une lueur démoniaque, tandis qu'elle entonne des incantations impies dans une langue oubliée du temps.
+
+À mesure qu'elle chante, des énergies ténébreuses s'élèvent du sol, tourbillonnant autour d'elle comme des serpents d'ombre. Des figures spectrales se forment dans les coins de la salle, évoquant des souvenirs de victimes sacrifiées et d'âmes corrompues. Les torches vacillent davantage, projetant des ombres grotesques qui semblent se mouvoir de leur propre chef.
+
+Le portail lui-même, une distorsion sombre dans l'air, s'ouvre en grinçant, émettant un bourdonnement glaçant et des murmures démoniaques. Les contours du Demogorgon se dessinent à l'intérieur, une silhouette terrifiante à deux têtes, aux yeux fous et aux griffes acérées.
+
+La pièce résonne de rires démoniaques alors que Gorthala continue ses incantations, sacrifiant l'énergie vitale d'Eldric Flamberouge pour renforcer le portail. L'air devient suffocant, chargé de désespoir et de la promesse imminente du chaos dévastateur que le Demogorgon apportera.
+
+C'est une scène d'horreur indicible, où le pouvoir démoniaque rencontre la folie et la malice, où le monde réel s'effrite devant les forces abyssales. Les aventuriers se tiennent là, confrontés à l'incarnation de la terreur et à l'inexorable avancée du cauchemar démoniaque.
+
+### 11. Le portail
+Au fond de la pièce, s'ouvre dans l'air comme une plaie béante dans la réalité elle-même. La brume qui en émane est d'un noir profond, un tourbillon d'obscurité qui se tord et se contorsionne comme s'il était en vie. Elle se fond dans les ombres de la pièce, se mêlant à l'obscurité déjà palpable, créant un maelström inquiétant.
 
 À mesure que vous observez le portail, une sensation glaciale se répand dans vos veines, une sensation de malaise profond qui ne peut être ignorée. La présence maléfique qui émane de cette ouverture vers les Abysses est oppressante, un poids invisible qui pèse sur votre esprit. Vous pouvez presque sentir les ténèbres vous engloutir, vous avaler dans leur sombre éternité.
 
@@ -283,7 +300,13 @@ Le portail lui-même palpite avec une lueur écarlate, comme le cœur battant d'
 
 Face à cette ouverture vers les Abysses, vous sentez votre propre volonté vaciller. Les ténèbres vous appellent, cherchant à attirer vos pensées vers des horizons sombres et inconnus.
 
+À travers le portail sombre et déchiré, une silhouette imposante se dessine, une créature à l'apparence cauchemardesque. Ses deux têtes, chacune plus horrible que l'autre, se dressent dans les ténèbres avec des yeux écarquillés et sauvages, émettant une lueur sinistre. Les visages démoniaques arborent des grimaces déformées, avec des crocs effrayants qui dépassent de bouches béantes.
 
+La créature semble faite d'ombres tourbillonnantes, une masse informe de tentacules écailleux et de membres torturés. Son corps est tordu et déformé, évoquant une abomination surgie tout droit des cauchemars les plus sombres. Des griffes acérées et crochues s'étendent de ses membres, prêtes à déchirer et à dévaster tout sur leur passage.
+
+Une aura de folie et de malveillance émane de cette créature, imprégnant l'air d'une atmosphère de terreur palpable. Chaque mouvement qu'elle fait semble être une danse macabre, une démonstration de sa puissance terrifiante.
+
+À travers le portail, cette entité démoniaque se profile comme une vision cauchemardesque, une aberration insaisissable venue des Abysses, prête à déferler dans le monde des mortels et à semer la destruction et la désolation.
 
 ## Le chemin vers les abysses
 1. **Rencontre 1 : Zombies et Squelettes :** Lorsque les joueurs descendent les escaliers et entrent dans la caverne souterraine, ils sont accueillis par des zombies et des squelettes, des créatures mineures et décrépites que le culte démoniaque a réveillées pour protéger l'entrée. Cette première vague peut être une introduction aux dangers qui les attendent plus profondément.
