@@ -16,7 +16,7 @@
 
 
 
-# Titre du scénario : "L'Invasion du Sombre Abîme"
+# "L'Invasion du Sombre Abîme"
 
 La magicienne et ses compagnons recherchent Eldric Flamberouge, le gnome alchimiste et ami de la magicienne qui vit à Sylvestra. Les personnages n'ont plus de nouvelles de lui depuis plus d'un mois
 
