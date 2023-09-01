@@ -4,7 +4,7 @@
 [La ferme](#4-la-ferme)                                         |
 [La maison du Hero](#2-la-maison-du-guerrier)                   |
 [RDV avec les dignitaires](#5-rendez-vous-avec-les-dignitaires) |
-[Le cimetiere](#6-le-cimetiere)                                 |
+[Le cimetiere](#7-le-cimetiere-version-2)                       |
 [L'eglise](#8-leglise)                                          |
 [Les escalier](#9-les-escaliers)                                |
 [Personnage](#fiches-de-personnages)                            |
@@ -228,7 +228,7 @@ Des rumeurs avaient déjà atteint les aventuriers, racontant que le Héros avai
 
 La ville était plongée dans l'incertitude, les aventuriers se tenant au cœur de cet enchevêtrement de craintes et d'énigmes. Ils savaient que pour rétablir la paix et la normalité, ils devraient découvrir la vérité derrière la disparition de l'alchimiste, les comportements étranges des animaux et la mystérieuse absence des dignitaires. Un sentiment d'urgence mêlé de mysticisme les enveloppait, les poussant à plonger plus profondément dans les mystères qui hantaient la ville assombrie par la nuit naissante.
 
-### 6. Le cimetiere
+### 6. Le cimetiere ne pas utiliser
 Les aventuriers marchent prudemment à travers le cimetière, en direction de l'église située au-delà. Les pierres tombales se dressent de part et d'autre avec une ambiance lugubre et une aura de tristesse enveloppant chaque monument funéraire.
 
 Alors qu'ils avancent, des murmures troublants emplissent l'air. Des voix chuchotantes, étouffées par le poids du désespoir, semblent provenir des tombes elles-mêmes. Les aventuriers peuvent distinguer vaguement des noms familiers, associés aux habitants de la petite ville.
