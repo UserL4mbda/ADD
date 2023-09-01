@@ -476,9 +476,9 @@ Bien sûr, voici la fiche technique pour les spectres dans le contexte de votre 
 **Spectre**
 *Non-mort (spectre), Moyen, Chaotique Mauvais*
 
-**Points de Vie:** 45 (10d8)
+**Points de Vie:** 45 (7+3)
 **Vitesse:** 0 m (vol stationnaire), 12 m (vol)
-**Classe d'Armure:** 12
+**Classe d'Armure:** 2
 **Jets de Sauvegarde:** Volonté +4, Charisme +4
 **Résistances aux Dommages:** Acide, Feu, Foudre, Froid, Nécrotique, Contondant, Perforant et Tranchant d'attaques non magiques
 **Immunités aux Dommages:** Nécrotique, Poison
@@ -508,10 +508,14 @@ Bien sûr, voici une fiche technique pour les Chasseurs d'Ombres dans votre scé
 
 **Chasseur d'Ombres**
 *Créature moyenne, non-morte*
+Page 83
 
+**Classe d'armure** 7
 **Armure Naturelle** 12  
-**Points de Vie** 52 (8d8 + 16)  
-**Vitesse** 40 ft. (8 cases), escalade 40 ft.
+**Points de Vie** 22 (3d8 + 3)  
+**Vitesse** 36 m
+**Degat** 2-5
+**Attaque speciale** absorbe 1 point de force par toucher glacial (qui revient après 2-8 tours)
 
 **Caractéristiques**
 - **Force** 14 (+2)
@@ -545,6 +549,18 @@ Bien sûr, voici une fiche technique pour les Chasseurs d'Ombres dans votre scé
 
 **Description**
 Les chasseurs d'ombres sont des créatures sombres et cauchemardesques, résultant de l'ombre de la vie elle-même. Ils errent dans les ténèbres, traquant leurs proies avec une agilité terrifiante. Les chasseurs d'ombres portent des armes noires et dentelées, et leur présence est accompagnée d'une sensation oppressante et glaciale. Leurs yeux luisent d'une lueur éthérée alors qu'ils se faufilent dans l'obscurité, prêts à surgir sur leurs victimes.
+
+### Zombies
+- Classe d'armure: 8
+- Deplacememt: 18 m
+- Des de vie 2
+- Degats: 1-8
+
+### Squelettes
+- Classe d'armure: 8
+- Deplacememt: 18 m
+- Des de vie 2
+- Degats: 1-8
 
 ### Gurzak
 Gurzak, le Briseur de Fer, un démon guerrier spécialisé dans les assauts brutaux :
