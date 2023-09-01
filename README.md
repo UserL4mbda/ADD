@@ -17,6 +17,8 @@
 
 # Titre du scénario : "L'Invasion du Sombre Abîme"
 
+La magicienne et ses compagnons recherchent Eldric Flamberouge, le gnome alchimiste et ami de la magicienne qui vit à Sylvestra. Les personnages n'ont plus de nouvelles de lui depuis plus d'un mois
+
 ## Prélude
 Vous vous trouvez en pleine forêt verdoyante sur la route de Sylvestra, une ville commerçante prospère. Le soleil brille à travers les feuillages et le chant des oiseaux résonne dans l'air. Alors que vous marchez paisiblement, vous commencez à remarquer que les sons de la nature s'estompent peu à peu, laissant place à un silence oppressant.
 
@@ -31,21 +33,22 @@ Au même instant, une dizaine d'homme armés se retrouvent devant vous
 Varok est le chef des brigants
 
 Nom du brigand : Varok le Sombre
-Race : Humain
-Classe : Voleur
-Niveau : 4
-Alignement : Chaotique Mauvais
+- Race : Humain
+- Classe : Voleur
+- Niveau : 4
+- Alignement : Chaotique Mauvais
+
 Traits distinctifs : Varok possède des cheveux noirs ébouriffés, une peau pâle et des yeux perçants d'un bleu glacial. Il porte un masque de métal sombre orné de gravures sinistres, qui lui donne un air encore plus menaçant.
 
 Humain Voleur (Niveau 4):
-Genre: male
-Force: 16
-Dextérité: 16
-Constitution: 6
-Intelligence: 12
-Sagesse: 17
-Charisme: 17
-Points de Vie: 18
+- Genre: male
+- Force: 16
+- Dextérité: 16
+- Constitution: 6
+- Intelligence: 12
+- Sagesse: 17
+- Charisme: 17
+- Points de Vie: 18
 
 Compétences :
 - Escalade : Maîtrise
@@ -70,24 +73,23 @@ Attention, Varok est un adversaire dangereux et certainement pas un simple briga
 #### Brigand
 Le brigand standard
 
-Bien sûr ! Voici la fiche de personnage générale pour un brigand :
-
 Nom du brigand : Rolf le Renégat
-Race : Humain
-Classe : Voleur
-Niveau : 2
-Alignement : Chaotique Neutre
+- Race : Humain
+- Classe : Voleur
+- Niveau : 2
+- Alignement : Chaotique Neutre
+
 Traits distinctifs : Rolf a une stature imposante avec une barbe rousse démesurée et des yeux perçants d'un vert vif. Il porte une tenue de cuir usée, tachée par endroits, et un foulard noir couvrant la moitié inférieure de son visage.
 
 Humain Voleur (Niveau 2):
-Genre: male
-Force: 7
-Dextérité: 10
-Constitution: 16
-Intelligence: 7
-Sagesse: 18
-Charisme: 15
-Points de Vie: 6
+- Genre: male
+- Force: 7
+- Dextérité: 10
+- Constitution: 16
+- Intelligence: 7
+- Sagesse: 18
+- Charisme: 15
+- Points de Vie: 6
 
 Compétences :
 - Discrétion : Maîtrise
@@ -109,7 +111,6 @@ Rolf est un brigand typique, peu expérimenté mais néanmoins dangereux. Il pr�
 
 ## Introduction : 
 
-La magicienne et ses compagnons recherchent Eldric Flamberouge, le gnome alchimiste et ami de la magicienne.
 Vos personnages s'aventurent dans la petite ville de Sylvestra, un lieu autrefois paisible niché au pied d'une chaîne de montagnes majestueuses. À première vue, tout semble normal, avec des rues pavées, des chaumières accueillantes et des villageois vaquant à leurs occupations quotidiennes. Les habitants vous saluent avec des sourires chaleureux, mais il y a quelque chose d'étrange dans l'air, une tension latente qui vous chatouille la nuque.
 
 À mesure que la journée se transforme en soirée, des changements subtils commencent à se manifester. Les animaux domestiques des villageois, normalement dociles et amicaux, deviennent soudain agressifs et agités. Les chiens aboient férocement, les chats crachent et les chevaux hennissent d'une manière inquiétante. La paisible atmosphère de la ville est perturbée par ces comportements hors du commun.
