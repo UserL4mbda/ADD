@@ -7,6 +7,7 @@
 [Le cimetiere](#7-le-cimetiere-version-2)                       |
 [L'eglise](#8-leglise)                                          |
 [Les escalier](#9-les-escaliers)                                |
+[La prison](#12-la-prison)                                      |
 [Personnage](#fiches-de-personnages)                            |
 [Perso Elric](#eldric-flamberouge)                              |
 [Pretre demonique](#prêtre-démoniaque)                          |
@@ -307,6 +308,46 @@ La créature semble faite d'ombres tourbillonnantes, une masse informe de tentac
 Une aura de folie et de malveillance émane de cette créature, imprégnant l'air d'une atmosphère de terreur palpable. Chaque mouvement qu'elle fait semble être une danse macabre, une démonstration de sa puissance terrifiante.
 
 À travers le portail, cette entité démoniaque se profile comme une vision cauchemardesque, une aberration insaisissable venue des Abysses, prête à déferler dans le monde des mortels et à semer la destruction et la désolation.
+
+### 12. La prison
+La scène des prisons de Marilith Gorthala est une vision d'horreur indicible. Les cellules sont sombres, humides et emplies d'une atmosphère suffocante. Les prisonniers, de toutes races et de tous âges, endurent des conditions inhumaines. Parmi eux se trouvent des humains, des enfants innocents, et même des gobelins, tous réduits à l'état de victimes impuissantes.
+
+- **Les Humains :** Des hommes et des femmes, certains portant les traces de tortures physiques et psychologiques, résident dans les cellules. Leurs visages sont marqués par la peur et l'espoir perdu, mais aussi par une détermination à survivre malgré l'horreur qui les entoure.
+
+- **Les Enfants :** Parmi les prisonniers se trouvent des enfants, leurs yeux grands ouverts, remplis de terreur. Certains essaient de consoler les plus jeunes, tandis que d'autres, paralysés par la peur, ne peuvent que trembler.
+
+- **Les Gobelins :** Les gobelins, généralement considérés comme des créatures hostiles, semblent être des captifs improbables dans cette scène cauchemardesque. Ils partagent le même sort que les autres prisonniers, et leurs regards expriment un mélange de méfiance et d'espoir d'échapper à cette prison démoniaque.
+
+Les cellules sont sombres, malodorantes et malsaines, chaque cachot empli de désespoir. Les murs sont couverts de marques désespérées, de prières et d'appels à l'aide griffonnés par les prisonniers qui ont perdu tout espoir.
+
+Les aventuriers, témoins de cette scène déchirante, comprennent que le culte de Marilith Gorthala utilise ces prisonniers pour alimenter des rituels sombres et renforcer le pouvoir du portail vers les Abysses. Ils doivent trouver un moyen de libérer ces âmes innocentes tout en stoppant les plans démoniaques de Gorthala, apportant ainsi une lueur d'espoir à ceux qui ont été plongés dans les ténèbres.
+
+#### Réaction des gobeling à une possible libération
+Lorsque les gobelins sont libérés de leur captivité dans les prisons de Marilith Gorthala, leur réaction peut varier en fonction de leur état émotionnel et de leurs expériences passées. Voici quelques réactions possibles :
+
+1. **Méfiance et Appréhension :** Les gobelins, habitués à la méfiance envers les étrangers et à la survie dans un monde hostile, peuvent initialement se montrer méfiants envers les aventuriers. Ils peuvent brandir des armes improvisées ou adopter une attitude défensive, craignant que leur libération ne soit qu'un piège.
+
+2. **Gratitude et Soulagement :** Une fois qu'ils réalisent que les aventuriers sont là pour les aider, les gobelins peuvent exprimer un immense soulagement et de la gratitude. Ils peuvent s'incliner, remercier les aventuriers et montrer des signes de respect envers ceux qui les ont secourus.
+
+3. **Confusion et Désorientation :** Après avoir enduré une captivité démoniaque, les gobelins peuvent être désorientés et ne pas comprendre immédiatement leur situation. Ils peuvent poser des questions, chercher des repères ou même refuser de quitter leurs cellules par crainte de l'inconnu.
+
+4. **Détermination à Se Venger :** Certains gobelins peuvent ressentir une féroce détermination à se venger de ceux qui les ont emprisonnés. Ils peuvent demander aux aventuriers de les aider à affronter leurs oppresseurs ou à détruire le culte démoniaque responsable de leur captivité.
+
+5. **Peur Résiduelle :** Les gobelins libérés peuvent souffrir de traumatismes résiduels dus à leur captivité. Ils peuvent être hantés par des cauchemars, des souvenirs traumatisants ou une peur persistante envers les démons et les rituels démoniaques.
+
+6. **Volonté de S'unir :** Certains gobelins peuvent voir leur libération comme une opportunité de s'unir aux aventuriers pour lutter contre les forces démoniaques. Ils peuvent proposer leur aide dans la quête visant à arrêter Marilith Gorthala et à refermer le portail vers les Abysses.
+
+La réaction des gobelins dépendra largement de la manière dont les aventuriers les traitent lors de leur libération. En agissant avec compassion et en leur offrant assistance et protection, les aventuriers peuvent gagner la confiance des gobelins et les inciter à devenir des alliés précieux dans leur lutte contre les forces démoniaques.
+
+Parmi les gobelins libérés des prisons de Marilith Gorthala, on trouve une variété de membres de leur société, y compris des mâles, des femelles et des petits. Chacun d'entre eux réagit à la libération d'une manière unique, tenant compte de sa propre expérience et de son rôle dans la communauté gobeline.
+
+- **Les Mâles :** Les gobelins mâles, généralement plus combatifs et aventureux, peuvent se montrer prêts à s'engager aux côtés des aventuriers pour combattre les forces démoniaques. Ils peuvent être déterminés à protéger les membres plus faibles de leur tribu et à reconstruire leur vie après la captivité.
+
+- **Les Femelles :** Les gobelins femelles, souvent responsables des soins et de la gestion de la tribu, peuvent exprimer un mélange d'inquiétude pour les petits et de gratitude envers les aventuriers. Elles peuvent jouer un rôle crucial dans la réadaptation de leur communauté et dans la prise de décisions pour l'avenir.
+
+- **Les Petits :** Les jeunes gobelins, innocents et vulnérables, peuvent être effrayés et désorientés par leur libération. Ils ont besoin d'attention, de réconfort et de protection, et leur avenir dépendra en grande partie de la manière dont les aventuriers interagissent avec eux.
+
+Dans l'ensemble, la libération des gobelins offre aux aventuriers une opportunité de montrer leur compassion et leur engagement envers la justice. Les gobelins, une fois guéris de leur traumatisme, peuvent devenir des alliés loyaux dans la lutte contre le culte démoniaque, apportant leur propre expertise et leurs ressources à la cause. La manière dont les aventuriers traitent les gobelins influencera grandement l'avenir de ces créatures, ainsi que leur propre quête pour arrêter Marilith Gorthala.
 
 ## Le chemin vers les abysses
 1. **Rencontre 1 : Zombies et Squelettes :** Lorsque les joueurs descendent les escaliers et entrent dans la caverne souterraine, ils sont accueillis par des zombies et des squelettes, des créatures mineures et décrépites que le culte démoniaque a réveillées pour protéger l'entrée. Cette première vague peut être une introduction aux dangers qui les attendent plus profondément.
