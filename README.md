@@ -11,10 +11,101 @@
 [Perso Elric](#eldric-flamberouge)                              |
 [Pretre demonique](#prêtre-démoniaque)                          |
 [Demon](#gurzak)                                                |
+[Varok chef des brigants](#varok)                               |
 
 
 
 # Titre du scénario : "L'Invasion du Sombre Abîme"
+
+## Prélude
+Vous vous trouvez en pleine forêt verdoyante sur la route de Sylvestra, une ville commerçante prospère. Le soleil brille à travers les feuillages et le chant des oiseaux résonne dans l'air. Alors que vous marchez paisiblement, vous commencez à remarquer que les sons de la nature s'estompent peu à peu, laissant place à un silence oppressant.
+
+Soudain, un cliquetis sinistre se fait entendre derrière vous. Vous vous retournez pour voir une vingtaine d'hommes armés jusqu'aux dents émergeant des buissons environnants. Ils sont vêtus de haillons sombres et portent des masques effrayants sur leurs visages. Leurs yeux luisent d'une lueur féroce alors qu'ils serrent leurs armes avec détermination.
+
+Le chef de cette bande inquiétante s'avance, son regard vous transperçant de part en part. Il vous fixe intensément et vous indique d'une voix rauque : "Vos richesses ou votre vie ! Soyez obéissants et personne ne sera blessé."
+
+Au même instant, une dizaine d'homme armés se retrouvent devant vous
+
+### Les brigants
+#### Varok
+Varok est le chef des brigants
+
+Nom du brigand : Varok le Sombre
+Race : Humain
+Classe : Voleur
+Niveau : 4
+Alignement : Chaotique Mauvais
+Traits distinctifs : Varok possède des cheveux noirs ébouriffés, une peau pâle et des yeux perçants d'un bleu glacial. Il porte un masque de métal sombre orné de gravures sinistres, qui lui donne un air encore plus menaçant.
+
+Humain Voleur (Niveau 4):
+Genre: male
+Force: 16
+Dextérité: 16
+Constitution: 6
+Intelligence: 12
+Sagesse: 17
+Charisme: 17
+Points de Vie: 18
+
+Compétences :
+- Escalade : Maîtrise
+- Discrétion : Maîtrise
+- Crochetage : Maîtrise
+- Perception : Expertise
+- Combat à l'épée courte : Compétent
+
+Équipement :
+- Épée courte enchantée : inflige des dégâts supplémentaires
+- Lame empoisonnée : devient mortelle si elle touche la peau
+- Dagues de lancer
+- Armure légère en cuir noir
+- Poches remplies de poisons et de petites armes dissimulées
+
+Capacités spéciales :
+- Attaque sournoise : si Varok attaque un ennemi se trouvant dans une situation désavantageuse, il inflige des dégâts supplémentaires.
+- Furtivité : Varok est capable de se déplacer silencieusement et de se camoufler dans les ombres.
+
+Attention, Varok est un adversaire dangereux et certainement pas un simple brigand de bas étage. Il est rusé, agile et utilisera tous les moyens à sa disposition pour vous combattre. Soyez prudents et préparez-vous à une confrontation difficile.
+
+#### Brigand
+Le brigand standard
+
+Bien sûr ! Voici la fiche de personnage générale pour un brigand :
+
+Nom du brigand : Rolf le Renégat
+Race : Humain
+Classe : Voleur
+Niveau : 2
+Alignement : Chaotique Neutre
+Traits distinctifs : Rolf a une stature imposante avec une barbe rousse démesurée et des yeux perçants d'un vert vif. Il porte une tenue de cuir usée, tachée par endroits, et un foulard noir couvrant la moitié inférieure de son visage.
+
+Humain Voleur (Niveau 2):
+Genre: male
+Force: 7
+Dextérité: 10
+Constitution: 16
+Intelligence: 7
+Sagesse: 18
+Charisme: 15
+Points de Vie: 6
+
+Compétences :
+- Discrétion : Maîtrise
+- Crochetage : Compétent
+- Perception : Compétent
+- Combat à l'épée courte : Compétent
+
+Équipement :
+- Épée courte
+- Dagues de lancer
+- Armure légère en cuir
+- Sac à dos contenant diverses provisions
+
+Capacités spéciales :
+- Voleur agile : Rolf est particulièrement rapide et habile dans ses mouvements, ce qui lui permet d'effectuer des actions furtives plus efficacement.
+- Sens aiguisés : Rolf possède des sens aiguisés, ce qui lui permet de détecter plus facilement les pièges ou les dangers potentiels.
+
+Rolf est un brigand typique, peu expérimenté mais néanmoins dangereux. Il préfère les attaques rapides et sournoises, cherchant souvent à désarçonner ses adversaires plutôt qu'à les affronter de front. Toutefois, il est encore vulnérable et peut être facilement distrait ou déstabilisé. Soyez prudents dans votre interaction avec lui et utilisez vos compétences pour le neutraliser rapidement.
 
 ## Introduction : 
 
