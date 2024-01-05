@@ -14,6 +14,8 @@
 [Demon](#gurzak)                                                |
 [Varok chef des brigants](#varok)                               |
 [Marilith Gorthala](#marilith-gorthala)                         |
+[Prequel](#PREQUEL)                                             |
+[Le Culte Charitable](#Le-Culte-Charitable)                     |
 
 
 
@@ -824,3 +826,7 @@ Le jardin, autrefois luxuriant de fleurs et de verdure, est maintenant envahi pa
 Une aura de tristesse et de désespoir émane de chaque recoin de la maison, comme si les murs eux-mêmes pleuraient la perte de celui qui était autrefois le protecteur de la ville. Les aventuriers peuvent presque entendre des murmures plaintifs dans le vent, portant avec eux les regrets de la communauté tout entière.
 
 La résidence autrefois accueillante est maintenant un symbole de douleur et de désolation, révélant la profondeur de la menace qui pèse sur la petite ville. Les aventuriers comprennent que de sombres forces ont frappé directement au cœur de la sécurité et de la confiance de la communauté, et ils sont déterminés à découvrir la vérité qui se cache derrière ces événements tragiques.
+
+## PREQUEL
+### Le Culte Charitable
+Le culte démoniaque opère secrètement sous la façade d'une organisation caritative qui aide les mendiants. Ils ont compris que cette façade leur permettait de se fondre dans la société tout en attirant des individus vulnérables, y compris des membres de la guilde des mendiants.
