@@ -830,3 +830,17 @@ La résidence autrefois accueillante est maintenant un symbole de douleur et de 
 ## PREQUEL
 ### Le Culte Charitable
 Le culte démoniaque opère secrètement sous la façade d'une organisation caritative qui aide les mendiants. Ils ont compris que cette façade leur permettait de se fondre dans la société tout en attirant des individus vulnérables, y compris des membres de la guilde des mendiants.
+Objectif révisé de la guilde démoniaque :
+Recruter les joueurs en tant que membres influents de la guilde des mendiants pour les utiliser dans des activités secrètes et ténébreuses, tout en continuant à promouvoir l'image bienfaisante de l'organisation caritative.
+
+Problème persistant avec la guilde des voleurs :
+La guilde des voleurs reste méfiante, car elle perçoit une ingérence croissante dans les bas-fonds de la cité, mettant en danger leurs propres opérations. Les joueurs doivent donc agir avec prudence pour ne pas éveiller les soupçons.
+
+Rôle des joueurs :
+Les joueurs, désormais membres influents de la guilde des mendiants, se retrouvent au cœur d'une organisation caritative démoniaque. Ils sont chargés d'accomplir des missions apparentées à l'aide aux nécessiteux tout en servant les objectifs obscurs du culte.
+
+Dilemmes moraux renforcés :
+Les joueurs doivent jongler entre leurs actions charitables envers les mendiants et leurs tâches sombres pour le culte. Ils pourraient être confrontés à des situations où ils doivent sacrifier l'un pour préserver l'autre, créant ainsi des dilemmes moraux intenses.
+
+Révélation imminente :
+Le climax du scénario pourrait survenir lorsque des héros bien intentionnés ou des membres d'organisations rivales commencent à découvrir les activités réelles du culte derrière la façade charitable. Les joueurs doivent alors décider s'ils restent loyaux au culte ou s'ils se détournent de leurs machinations démoniaques
